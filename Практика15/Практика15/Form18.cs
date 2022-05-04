@@ -42,11 +42,32 @@ namespace Практика15
         private void button8_Click(object sender, EventArgs e)
         {
             if (usd == 1)
-                textBox1.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) * 71);
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 71);
             if (eur == 1)
-                textBox1.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) * 76);
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 76);
             if (gbr == 1)
-                textBox1.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) * 84);
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 84);
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if (rub == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 71);
+            if (eur == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) * 1.05);
+            if (gbr == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) * 0.86);
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (rub == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 0.014);
+            if (eur == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 0.95);
+            if (gbr == 1)
+                textBox2.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / 0.86);
         }
     }
-}
+    }
+

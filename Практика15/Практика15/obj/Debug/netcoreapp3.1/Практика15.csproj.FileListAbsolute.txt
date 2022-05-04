@@ -27,5 +27,5 @@ D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Прак�
 D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form13.resources
 D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form14.resources
 D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form15.resources
-D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form16.resources
 D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form17.resources
+D:\TITAN\Практика15\Практика15\obj\Debug\netcoreapp3.1\Практика15.Form18.resources

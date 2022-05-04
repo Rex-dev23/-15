@@ -17,7 +17,7 @@ namespace Практика15
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form17());
+            Application.Run(new Form18());
         }
     }
 }
